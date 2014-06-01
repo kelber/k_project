@@ -1,0 +1,1 @@
+Arquivo file2 criado com o commando notepad file2.txt
